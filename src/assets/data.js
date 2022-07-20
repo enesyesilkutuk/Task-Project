@@ -87,7 +87,7 @@ const clothes = [
       price: 16.99,
       img: '/images/item-9.png',
       desc: ` %100 Pamuk, Flamlı Mavi, Casual Model, Slim Fit, Düğmeli Yaka, Uzun Kol, Cepsiz, 2022 Yaz, Altınyıldız Classics Slim Fit Dar Kesim Düğmeli Yaka %100 Pamuk Flamlı Gömlek`,
-      sum: 'Lorem ipsum dolor sit amet',
+      sum: 'Unisex Su Geçirmez Spor Ayakkabı',
     },
     {
         id: 10,
