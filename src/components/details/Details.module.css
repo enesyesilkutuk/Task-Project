@@ -1,0 +1,56 @@
+.container{
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+
+.detail{
+    display: flex;
+    border:1.5px solid rgba(128, 128, 128, 0.732);
+    width: 85%;
+    margin: 0 auto;
+    padding:25px;
+    border-radius: 7px;
+}
+
+.image{
+    border-radius: 7px;
+    width: 350px;
+    border:1px solid gray;
+    box-shadow: 3px 3px 10px 1px rgba(0,0,0,0.3)
+}
+
+.detailsInfo{
+    padding: 70px 30px;
+}
+
+.header{
+    text-align: center;
+    color: #ff5733;
+    user-select: none;
+}
+
+.productDetail{
+    color:#ff5733;
+}
+
+.brand{
+    color:#ff5733;
+}
+.sum{
+    color:#000;
+    font-size: 17px;
+}
+
+.mainPrice{
+    border:1px solid gray;
+    border-radius:5px;
+    width: fit-content;
+    padding:15px;
+    font-size: 30px;
+    color: black;
+}
+
+.price{
+    font-size: 20px;
+    color: #ff5733;
+}
