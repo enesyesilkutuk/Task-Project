@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet";
 import { useLocation } from "react-router-dom";
 import styles from "./Details.module.css";
 
@@ -8,6 +9,9 @@ const Details = () => {
 
   return (
     <div className={styles.container}>
+         <Helmet>
+      <title>{title}</title>
+    </Helmet>
       <h2 className={styles.header}>ÜRÜN DETAYI</h2>
       <div className={styles.detail}>
         <div>
